@@ -34,9 +34,7 @@ for page in range(486, 1000):
     else:
     	break
         
-    
-#item_dict = dict(zip(titles, prices))
-
+   
 
 
 
